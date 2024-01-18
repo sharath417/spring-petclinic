@@ -16,8 +16,12 @@
 
   <properties>
 
-    <sonar.host.url>https://34.16.133.153:9000/</sonar.host.url>
+    <sonar.host.url>http://34.16.133.153:9000/</sonar.host.url>
     <sonar.login>sqa_0239fd26c6537d3fbbc5b18448ab79f73133cae1</sonar.login>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+    
     <!-- Generic properties -->
     <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
